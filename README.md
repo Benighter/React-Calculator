@@ -1,4 +1,4 @@
-# Calcuulator application using React & Styled Component
+# Calculator application using React & Styled Component
 
 # How to use this project
 - if you want compare code just explore code
